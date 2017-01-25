@@ -1,6 +1,6 @@
 #Apress Source Code
 
-This repository accompanies [*Making Games*](http://www.apress.com/9781484224922) by Pitt, Christopher (Apress, 2016).
+This repository accompanies [*Making Games*](http://www.apress.com/9781484224922) by Christopher Pitt (Apress, 2016).
 
 ![Cover image](9781484224922.jpg)
 
